@@ -1,0 +1,1 @@
+oyunu oynamak için human_input.py dosyasını çalıştırmanız gerekmektedir.
